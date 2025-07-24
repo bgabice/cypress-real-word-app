@@ -2,7 +2,7 @@
 
 # Cypress E2E Testing Project
 
-This project uses [Cypress](https://www.cypress.io/) to perform end-to-end (E2E) tests on a web application.
+This project uses [Cypress](https://www.cypress.io/) to perform end-to-end (E2E) tests on a Next.js web application.
 
 The `Master` branch is the main branch for this repo and is the starting point for the course. And i'll be adding Cypress tests to this
 
