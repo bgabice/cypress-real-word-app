@@ -1,10 +1,11 @@
 # Real World Testing with Cypress - Course App
 
-This application is for the [Testing your first application course](https://learn.cypress.io/testing-your-first-application) on [learn.cypress.io](https://learn.cypress.io/).
-
+<<<<<<< HEAD
 # Cypress E2E Testing Project
 
 This project uses [Cypress](https://www.cypress.io/) to perform end-to-end (E2E) tests on a web application.
+
+The `Master` branch is the main branch for this repo and is the starting point for the course. And i'll be adding Cypress tests to this
 
 ## 📁 Project Structure
 
@@ -15,7 +16,7 @@ cypress/
 cypress.config.js # Cypress config file
 package.json # Project metadata and scripts
 
-The `start` branch is the main branch for this repo and is the starting point for the course.
+
 
 
 ## 🚀 Getting Started
@@ -36,3 +37,7 @@ npm install
 -Headless(Ci mode)
  npx cypress run
 
+=======
+ 
+>>>>>>> d98381a7fb5cd78f2f9223c55c5969e331b968b3
+ 
