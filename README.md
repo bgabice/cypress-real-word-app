@@ -1,6 +1,5 @@
 # Real World Testing with Cypress - Course App
 
-<<<<<<< HEAD
 # Cypress E2E Testing Project
 
 This project uses [Cypress](https://www.cypress.io/) to perform end-to-end (E2E) tests on a web application.
@@ -37,7 +36,5 @@ npm install
 -Headless(Ci mode)
  npx cypress run
 
-=======
- 
->>>>>>> d98381a7fb5cd78f2f9223c55c5969e331b968b3
+
  
