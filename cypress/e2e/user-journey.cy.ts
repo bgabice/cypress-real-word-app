@@ -61,9 +61,12 @@ describe('User Journey', () => {
               .click();
       });
 
-    //  it('should allow a user to create a post', () => {
-    // // Test implementation
-    //  });
+     it('should allow a user to create a post', () => {
+    // Test implementation
+
+    
+    
+     });
 
     //  it('should allow a user to edit their profile', () => {
     // // Test implementation
